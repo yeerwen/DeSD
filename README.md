@@ -1,5 +1,8 @@
 # DeSD-code
-This is the official pytorch implementation of our MICCAI 2022 paper "DeSD: Self-Supervised Learning with Deep Self-Distillation for 3D Medical Image Segmentation". In this paper, we reformulate SSL in a Deep Self-Distillation (DeSD) manner to improve the representation quality of both shallow and deep layers. This paper is available [here](https://link.springer.com/chapter/10.1007/978-3-031-16440-8_52).
+This is the official pytorch implementation of our MICCAI 2022 paper "DeSD: Self-Supervised Learning with Deep Self-Distillation for 3D Medical Image Segmentation". In this paper, we reformulate SSL in a Deep Self-Distillation (DeSD) manner to improve the representation quality of both shallow and deep layers. 
+```
+This paper is available [here](https://link.springer.com/chapter/10.1007/978-3-031-16440-8_52).
+```
 
 <div align="center">
   <img width="80%" alt="DeSD illustration" src="github/Overview.png">
