@@ -35,6 +35,10 @@ cd DeSD
 ### Training 
 * Run `sh run_ssl.sh` for self-supervised pre-training.
 
+### Pre-trained Model
+* Pre-trained model is available in [DeSD_Res50](https://drive.google.com/file/d/1NoTPb3n276ZKMlTX0Cpch4E4PeDDW7OH/view?usp=sharing).
+
+
 ### Fine-tune DeSD on your own target task
 
 As for the target segmentation tasks, the 3D model can be initialized with the pre-trained encoder using the following example:
